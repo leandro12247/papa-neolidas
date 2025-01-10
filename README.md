@@ -1,4 +1,4 @@
-# papa-neolidas
+# repositorio uno en el curso de git
 creando repo, siguiendo el curso de git de dalto
 
 ## descripcion
