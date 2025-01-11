@@ -1,1 +1,2 @@
-"hola"
+texto = "hola"
+nombre = "leandro"
