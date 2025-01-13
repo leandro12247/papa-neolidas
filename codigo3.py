@@ -1,1 +1,1 @@
-nombre = "pedro alberto"
+nombre = "pedro albertito"

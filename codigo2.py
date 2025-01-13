@@ -1,2 +1,2 @@
-nombres = "killua y gon"
+nombres = "killua y gonashe"
 print("hola" + nombres)
