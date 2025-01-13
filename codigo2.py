@@ -1,2 +1,2 @@
-nombres = "Marco Aurelio y Marco Antonio"
+nombres = "killua y gon"
 print("hola" + nombres)
