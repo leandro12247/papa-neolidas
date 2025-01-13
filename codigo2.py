@@ -1,2 +1,2 @@
-nombres = "killua y gonashe"
+nombres = "goten y trunks, epic duo like killua y gon"
 print("hola" + nombres)
