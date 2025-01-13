@@ -1,2 +1,2 @@
-nombre = "Marco Aurelio"
-print("hola" + nombre)
+nombres = "Marco Aurelio y Marco Antonio"
+print("hola" + nombres)
